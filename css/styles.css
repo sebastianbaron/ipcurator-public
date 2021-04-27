@@ -5,3 +5,10 @@
     text-overflow: hidden;
 }
 
+body{
+    font-family: tahoma,sans-serif;
+}
+
+li{
+    margin: 10px;
+}
