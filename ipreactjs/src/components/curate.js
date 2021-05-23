@@ -11,7 +11,7 @@ export default {
         Input = Input.replace(/, /g, ",") // saca los espacios despues de las comas
         let SortedInput = Input.split(",") // separa el string en un array 
         
-        console.log(SortedInput)
+        console.log(SortedInput) /* asd */
         
         // busca a ver si el usuario y la ip ya existen en el iparray
         for(var i = 0; i<SortedInput.length; i++){
