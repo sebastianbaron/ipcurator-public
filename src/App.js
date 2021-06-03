@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import curate from "./components/curate.js"
 import copy from "./components/copy.js"
