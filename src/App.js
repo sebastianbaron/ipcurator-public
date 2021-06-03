@@ -16,7 +16,7 @@ function App() {
     <div className="d-flex flex-column">
     <ul className="mt-5" id="ipList" />
     {/* <ul className="list-group-item" id="ipYaConfiguradas" /> */}
-    <button onClick={ ()=> copy(document.getElementById("ipList").innerText)} className="btn btn-dark">Copiar</button>
+    <button onClick={ ( )=> copy(document.getElementById("ipList").innerText)} className="btn btn-dark">Copiar</button>
     </div>
     
     </div>
